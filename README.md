@@ -1,6 +1,8 @@
 # Telegram Weather Bot
 Simple Telegram bot which gives weather information for any city using OpenWeather API.
 
+![example_of_bot](https://user-images.githubusercontent.com/108881004/179398843-979dbd73-2c55-4e0c-a6d5-7bb979e39c62.png)
+
 ## Installation
 Clone this repository to your PC and install all requirements.
 ```bat
