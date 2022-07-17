@@ -19,6 +19,8 @@ py main.py
 Before actually running the bot, you need to modify config.py file.
 
 In config.py you have 3 variables:
+
+
 **TELEGRAM_BOT_TOKEN** - Your telegram bot token (you can get it from BotFather bot)
 
 
