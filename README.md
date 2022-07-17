@@ -20,5 +20,9 @@ Before actually running the bot, you need to modify config.py file.
 
 In config.py you have 3 variables:
 **TELEGRAM_BOT_TOKEN** - Your telegram bot token (you can get it from BotFather bot)
+
+
 **OPENWEATHER_API_TOKEN** - OpenWeather API token (get it on [OpenWeather](https://openweathermap.org) by creating account)
+
+
 **WEATHER_INFORMATION_FORMAT** - Weather information format, you can modify it as you want
